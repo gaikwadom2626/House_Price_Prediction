@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <title>Prediction Result</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Prediction Result</h1>
+        <p>The predicted house price is: <strong>${{ prediction }}</strong></p>
+        <a href="/" class="btn">Back to Home</a>
+    </div>
+    <footer>
+        <div class="social-links">
+            <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+                <img src="{{ url_for('static', filename='Linkedin.png') }}" alt="LinkedIn" width="30">
+            </a>
+            <a href="https://github.com/your-github-profile" target="_blank">
+                <img src="{{ url_for('static', filename='Github.png') }}" alt="GitHub" width="30">
+            </a>
+        </div>
+        <p>Developer: Mohd Sameer Hussain</p>
+        <p>Email: mohdsameerhussain28@gmail.com</p>
+        <p>Call/WhatsApp: 6303452296</p>
+    </footer>
+</body>
+</html>
