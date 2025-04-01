@@ -48,8 +48,8 @@ I chose this project because the real estate industry is a dynamic and data-driv
 
 
 ## Developer Information
-* Developer Name: Mohd Sameer Hussain
-* Email: mohdsameerhussain28@gmail.com
-* Phone/WhatsApp: (+91)6303452296
-* LinkedIn: https://www.linkedin.com/in/mohdsameer28
-* GitHub: https://github.com/SameerHussain128
+* Developer Name: Gaikwad Om Bhausaheb
+* Email: gaikwadom2626@gmail.com
+* Phone/WhatsApp: (+91)7498222626
+* LinkedIn: http://www.linkedin.com/in/om-gaikwad-91955131b
+
